@@ -1,5 +1,5 @@
 # flower-problem
-Neural network example problem
+Neural network to predict a flower's color based on its length and width. 
 
 Builds a basic neural network with largely manual calculations to understand the calculus behind machine learning. 
 
